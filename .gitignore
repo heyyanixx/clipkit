@@ -1,0 +1,5 @@
+node_modules/
+site/
+test/out/
+test/media/
+*.log
